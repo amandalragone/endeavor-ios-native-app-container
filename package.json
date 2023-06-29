@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-native": "0.68.7",
+    "react-native-electrode-bridge": "1.6.0",
+    "@react-native-community/cli-platform-android": "7.0.1",
+    "@react-native-community/cli-platform-ios": "7.0.1",
+    "react-native-gradle-plugin": "0.0.6"
+  },
+  "name": "container",
+  "private": true
+}
