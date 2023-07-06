@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = "ElectrodeContainer"
-    s.version               = "1.0.0"
+    s.version               = "1.0.1"
     s.summary               = "Electrode Native Container"
     s.homepage              = "https://native.electrode.io"
     s.license               = "MIT"
